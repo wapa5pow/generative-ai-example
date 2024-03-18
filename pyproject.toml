@@ -11,6 +11,8 @@ boto3 = "^1.34.62"
 pillow = "^10.2.0"
 ipyplot = "^1.1.2"
 numpy = "^1.26.4"
+langchain = "^0.1.12"
+openai = "^1.14.1"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.3"
